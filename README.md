@@ -17,25 +17,3 @@ You will need Python 3.x installed. To install the required libraries, run the f
 
 ```bash
 pip install opencv-python mediapipe numpy
-
-How to Run and Play
-Ensure your webcam is connected and accessible.
-
-Run the Python script:
-
-Bash
-python neon_drawing.py
-(Replace neon_drawing.py with the actual name of your Python file).
-
-A window titled "Satisfying Hand Patterns" will open, showing a black canvas.
-
-To Draw: Hold up your hand so the camera can see it. Move your index finger slowly to start drawing your neon masterpiece!
-
-To Break the Line: Simply lower your hand or close your fist to hide your index finger from the camera.
-
-⌨️ Controls
-Move Index Finger: Draw on the canvas.
-
-Press C: Clear the screen to start a new drawing.
-
-Press ESC: Quit the application.
